@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TESTNG-V1.1-25-02">
+<suite-files>
+
+<suite-file path="./src/testexcuation/module1.xml"></suite-file>
+<suite-file path="./src/testexcuation/module2.xml"></suite-file>
+</suite-files>
+
+</suite>

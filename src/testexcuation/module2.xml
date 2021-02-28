@@ -1,0 +1,14 @@
+<suite name="Module 2:finance Module">
+<test name="Change password Test">
+<classes>
+<class name="module2.TestCase3"></class>
+</classes>
+</test>
+
+<test name="Search Test">
+<classes>
+<class name="module2.TestCase4"></class>
+</classes>
+</test>
+
+</suite>

@@ -1,0 +1,14 @@
+<suite name="Module 1:HR Module">
+<test name="Register Test">
+<classes>
+<class name="module1.TestCase1"></class>
+</classes>
+</test>
+
+<test name="Login Test">
+<classes>
+<class name="module1.TestCase2"></class>
+</classes>
+</test>
+
+</suite>
